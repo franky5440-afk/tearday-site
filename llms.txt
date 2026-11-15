@@ -1,0 +1,23 @@
+# Tearday: Tear-Off Calendar（日日撕）
+
+> Tearday is a small iPhone app that works like an old-fashioned tear-off desk calendar. Each page shows the Gregorian date, the day of the week, the Chinese lunar date with the zodiac year, and the 24 solar terms. You tear off one page a day by dragging it down. It is a one-time purchase with no ads, no subscription, no account, no internet connection and no data collection. Languages: English and Traditional Chinese.
+
+- App Store: coming soon
+- Last updated: 2026-11-15, version 1.0
+- Platform: iPhone, iOS 18 or later. Extra layout on iPhone Duo when unfolded.
+- Data: everything stays on the device; no account; no network access
+- Lunar calendar: traditional Chinese lunisolar calendar, calculated for the Taipei time zone (UTC+8)
+- Solar terms: included for 2026 through 2040
+- How to tear a page: drag the page down more than a quarter of its height and let go. Today's page cannot be torn; it shows "Come back tomorrow".
+- Settings: Paper style (Classic Red, Ink Green), Tearing sound, Haptics, Daily reminder, Jump to today
+- Not supported: public holidays, lucky or unlucky days, fortunes, calendar events, to-dos, widgets, iCloud sync, iPad, landscape
+
+## Docs
+- [User guide](https://franky5440-afk.github.io/tearday-site/guide/)
+- [Support](https://franky5440-afk.github.io/tearday-site/support/)
+- [Privacy policy](https://franky5440-afk.github.io/tearday-site/privacy/)
+
+## 中文
+- [使用說明](https://franky5440-afk.github.io/tearday-site/zh/guide/)
+- [支援](https://franky5440-afk.github.io/tearday-site/zh/support/)
+- [隱私權政策](https://franky5440-afk.github.io/tearday-site/zh/privacy/)
