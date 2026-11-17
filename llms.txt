@@ -1,16 +1,16 @@
 # Tearday: Tear-Off Calendar（日日撕）
 
-> Tearday is a small iPhone app that works like an old-fashioned tear-off desk calendar. Each page shows the Gregorian date, the day of the week, the Chinese lunar date with the zodiac year, and the 24 solar terms. You tear off one page a day by dragging it down. It is a one-time purchase with no ads, no subscription, no account, no internet connection and no data collection. Languages: English and Traditional Chinese.
+> Tearday is a small iPhone app that works like an old-fashioned tear-off desk calendar. Each page shows the Gregorian date, the day of the week, the Chinese lunar date with the zodiac year, and the 24 solar terms. You tear off one page a day by dragging it down. You can write to-dos on each day's page; they are saved in the iPhone Reminders app. A small pixel mascot (the zodiac animal of the year) animates only when you do something. It is a one-time purchase with no ads, no subscription, no account, no internet connection and no data collection by the developer. Languages: English and Traditional Chinese.
 
 - App Store: https://apps.apple.com/app/id6835150913 (US$2.99 one-time purchase)
-- Last updated: 2026-11-17, version 1.0.1
-- Platform: iPhone, iOS 18 or later. Two-area layout on iPhone Duo's inner screen when unfolded (side by side when held sideways, split at the fold when half-open).
-- Data: everything stays on the device; no account; no network access
+- Last updated: 2026-11-18, version 2.0
+- Platform: iPhone, iOS 18 or later. Two-area layout on iPhone Duo's inner screen when unfolded (side by side when held sideways, split at the fold when half-open); the selected day's to-dos sit next to the month view.
+- Data: settings stay on the device; to-dos are stored by iOS in the Reminders app (list “Tearday”; Tearday reads and writes only that list); no account; no network access
 - Lunar calendar: traditional Chinese lunisolar calendar, calculated for the Taipei time zone (UTC+8)
 - Solar terms: included for 2026 through 2040
 - How to tear a page: drag the page down more than a quarter of its height and let go. Today's page cannot be torn; it shows "Come back tomorrow".
-- Settings: Paper style (Classic Red, Ink Green), Tear sound, Vibration, Daily reminder, Jump to today
-- Not supported: public holidays, lucky or unlucky days, fortunes, calendar events, to-dos, widgets, iCloud sync, iPad, landscape
+- Settings: Paper style (Classic Red, Ink Green), Tear sound, Vibration, Daily reminder, Mascot, Jump to today
+- Not supported: public holidays, lucky or unlucky days, fortunes, calendar events, widgets, iPad, landscape (except on iPhone Duo's inner screen)
 
 ## Docs
 - [User guide](https://franky5440-afk.github.io/tearday-site/guide/)
