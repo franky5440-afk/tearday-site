@@ -3,8 +3,8 @@
 > Tearday is a small iPhone app that works like an old-fashioned tear-off desk calendar. Each page shows the Gregorian date, the day of the week, the Chinese lunar date with the zodiac year, and the 24 solar terms. You tear off one page a day by dragging it down. It is a one-time purchase with no ads, no subscription, no account, no internet connection and no data collection. Languages: English and Traditional Chinese.
 
 - App Store: https://apps.apple.com/app/id6835150913 (US$2.99 one-time purchase)
-- Last updated: 2026-11-16, version 1.0
-- Platform: iPhone, iOS 18 or later. Extra layout on iPhone Duo when unfolded.
+- Last updated: 2026-11-17, version 1.0.1
+- Platform: iPhone, iOS 18 or later. Two-area layout on iPhone Duo's inner screen when unfolded (side by side when held sideways, split at the fold when half-open).
 - Data: everything stays on the device; no account; no network access
 - Lunar calendar: traditional Chinese lunisolar calendar, calculated for the Taipei time zone (UTC+8)
 - Solar terms: included for 2026 through 2040
