@@ -1,9 +1,9 @@
 # Tearday: Tear-Off Calendar（日日撕）
 
-> Tearday is a small iPhone app that works like an old-fashioned tear-off desk calendar. Each page shows the Gregorian date, the day of the week, the Chinese lunar date with the zodiac year, and the 24 solar terms. You tear off one page a day by dragging it down. You can write to-dos on each day's page; they are saved in the iPhone Reminders app. A small pixel mascot (the zodiac animal of the year) animates only when you do something. It is a one-time purchase with no ads, no subscription, no account, no internet connection and no data collection by the developer. Languages: English and Traditional Chinese.
+> Tearday is a small iPhone app that works like an old-fashioned tear-off desk calendar. Each page shows the Gregorian date, the day of the week, the Chinese lunar date with the zodiac year, and the 24 solar terms. You tear off one page a day by dragging it down. You can write to-dos on each day's page; they are saved in the iPhone Reminders app. A small pixel mascot (the zodiac animal of the year) animates only when you do something. It has no ads, no subscription, no account, no internet connection and no data collection by the developer. Languages: English and Traditional Chinese.
 
-- App Store: https://apps.apple.com/app/id6835150913 (US$2.99 one-time purchase)
-- Last updated: 2026-11-18, version 2.0
+- App Store: https://apps.apple.com/app/id6835150913 (Free download, 7-day free trial, then one-time US$2.99 unlock (no subscription). Earlier paid downloads stay unlocked.)
+- Last updated: 2026-11-19, version 2.1
 - Platform: iPhone, iOS 18 or later. Two-area layout on iPhone Duo's inner screen when unfolded (side by side when held sideways, split at the fold when half-open); the selected day's to-dos sit next to the month view.
 - Data: settings stay on the device; to-dos are stored by iOS in the Reminders app (list “Tearday”; Tearday reads and writes only that list); no account; no network access
 - Lunar calendar: traditional Chinese lunisolar calendar, calculated for the Taipei time zone (UTC+8)
